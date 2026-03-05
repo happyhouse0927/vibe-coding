@@ -29,7 +29,7 @@ export default function Home() {
               <a href="/curriculum">커리큘럼</a>
             </Button>
             <Button variant="ghost" size="sm" asChild>
-              <a href="#reviews">수강 후기</a>
+              <a href="#reviews">로그인</a>
             </Button>
             <Button variant="ghost" size="sm" asChild>
               <a href="#reviews">수강 후기</a>
