@@ -31,6 +31,9 @@ export default function Home() {
             <Button variant="ghost" size="sm" asChild>
               <a href="#reviews">수강 후기</a>
             </Button>
+            <Button variant="ghost" size="sm" asChild>
+              <a href="#reviews">수강 후기</a>
+            </Button>
             <Button size="sm" className="ml-2" asChild>
               <a href="#start">무료 시작</a>
             </Button>
