@@ -55,9 +55,7 @@ export default function Home() {
                 신나는 한국어 교실
               </h1>
               <p className="max-w-xl text-lg leading-relaxed text-muted-foreground">
-                처음 한글을 배우는 입문자부터 자연스러운 회화를 목표로 하는
-                학습자까지, 짧고 실용적인 온라인 수업으로 한국어를 즐겁게
-                익혀보세요.
+                생동감 넘치는 살아있는 한국어의 소리와 말을 배워봅시다!  여러분의 귀에 한국어 말소리는 어떻게 들리나요? 여러분의 혀와 입은 한국어로 말할 준비가 되어 있나요? 여러분의 마음과 생각은 한국어로 전할 준비가 되었나요?
               </p>
             </div>
             <div className="flex flex-wrap gap-3 pt-1">
